@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RailCarTrip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3305fd949ad7d35495197bb9e5c5d31b4aaffc3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RailCarTrip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RailCarTrip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

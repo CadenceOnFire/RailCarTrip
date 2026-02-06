@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|c:\\users\\lin\\source\\repos\\railcartrip\\railcartrip\\components\\railcartrips.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|solutionrelative:railcartrip\\components\\railcartrips.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|c:\\users\\lin\\source\\repos\\railcartrip\\railcartrip\\components\\railcartrips.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|solutionrelative:railcartrip\\components\\railcartrips.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|c:\\users\\lin\\source\\repos\\railcartrip\\railcartrip\\services\\equipmenteventimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|solutionrelative:railcartrip\\services\\equipmenteventimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|c:\\users\\lin\\source\\repos\\railcartrip\\railcartrip\\interface\\iequipmenteventimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|solutionrelative:railcartrip\\interface\\iequipmenteventimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5546815F-BAFC-B076-218F-7EDB7CFA2B54}|RailCarAPI\\RailCarAPI.csproj|c:\\users\\lin\\source\\repos\\railcartrip\\railcarapi\\datamodel\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5546815F-BAFC-B076-218F-7EDB7CFA2B54}|RailCarAPI\\RailCarAPI.csproj|solutionrelative:railcarapi\\datamodel\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5546815F-BAFC-B076-218F-7EDB7CFA2B54}|RailCarAPI\\RailCarAPI.csproj|c:\\users\\lin\\source\\repos\\railcartrip\\railcarapi\\controllers\\railcarapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5546815F-BAFC-B076-218F-7EDB7CFA2B54}|RailCarAPI\\RailCarAPI.csproj|solutionrelative:railcarapi\\controllers\\railcarapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|c:\\users\\lin\\source\\repos\\railcartrip\\railcartrip\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B537865F-B93A-F35D-031A-63A8331B7E76}|RailCarTrip\\RailCarTrip.csproj|solutionrelative:railcartrip\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 405,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 548,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEquipmentEventImportService.cs",
+              "DocumentMoniker": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Interface\\IEquipmentEventImportService.cs",
+              "RelativeDocumentMoniker": "RailCarTrip\\Interface\\IEquipmentEventImportService.cs",
+              "ToolTip": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Interface\\IEquipmentEventImportService.cs",
+              "RelativeToolTip": "RailCarTrip\\Interface\\IEquipmentEventImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:54:08.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquipmentEventImportService.cs",
+              "DocumentMoniker": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Services\\EquipmentEventImportService.cs",
+              "RelativeDocumentMoniker": "RailCarTrip\\Services\\EquipmentEventImportService.cs",
+              "ToolTip": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Services\\EquipmentEventImportService.cs",
+              "RelativeToolTip": "RailCarTrip\\Services\\EquipmentEventImportService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:47:33.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RailCarTrips.razor",
+              "DocumentMoniker": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Components\\RailCarTrips.razor",
+              "RelativeDocumentMoniker": "RailCarTrip\\Components\\RailCarTrips.razor",
+              "ToolTip": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Components\\RailCarTrips.razor",
+              "RelativeToolTip": "RailCarTrip\\Components\\RailCarTrips.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T21:38:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RailCarTrips.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Components\\RailCarTrips.razor.cs",
+              "RelativeDocumentMoniker": "RailCarTrip\\Components\\RailCarTrips.razor.cs",
+              "ToolTip": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Components\\RailCarTrips.razor.cs",
+              "RelativeToolTip": "RailCarTrip\\Components\\RailCarTrips.razor.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T21:39:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarAPI\\DataModel\\Trip.cs",
+              "RelativeDocumentMoniker": "RailCarAPI\\DataModel\\Trip.cs",
+              "ToolTip": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarAPI\\DataModel\\Trip.cs",
+              "RelativeToolTip": "RailCarAPI\\DataModel\\Trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T21:31:45.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RailCarAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarAPI\\Controllers\\RailCarAPIController.cs",
+              "RelativeDocumentMoniker": "RailCarAPI\\Controllers\\RailCarAPIController.cs",
+              "ToolTip": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarAPI\\Controllers\\RailCarAPIController.cs",
+              "RelativeToolTip": "RailCarAPI\\Controllers\\RailCarAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T21:36:22.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReconnectModal.razor",
+              "DocumentMoniker": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeDocumentMoniker": "RailCarTrip\\Components\\Layout\\ReconnectModal.razor",
+              "ToolTip": "C:\\Users\\Lin\\source\\repos\\RailCarTrip\\RailCarTrip\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeToolTip": "RailCarTrip\\Components\\Layout\\ReconnectModal.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T21:20:39.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 762,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

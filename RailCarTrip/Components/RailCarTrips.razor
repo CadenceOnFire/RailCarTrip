@@ -1,0 +1,58 @@
+﻿@using RailCarTrip.Interface
+page "/railcar-trips"
+@inject IEquipmentEventImportService ImportService
+@using RailCarTrip.ViewModel
+
+
+
+<h3>Railcar Trips – Upload Events</h3>
+
+@* 
+<InputFile OnChange="@HandleUpload" accept=".csv,.xlsx" />
+
+@if (tripModel == null || !tripModel.EquipmentEvents.Any())
+{
+    <div class="alert alert-info">
+        No equipment events found.
+    </div>
+}
+else
+{ *@
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Event ID</th>
+                <th>Equipment ID</th>
+                <th>Event Code</th>
+                <th>Event Type</th>
+                <th>Event Time</th>
+                <th>Time Zone</th>
+                <th>City</th>
+                <th>Created Date</th>
+                <th>Created By</th>
+                <th>Modified Date</th>
+                <th>Modified By</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ev in tripModel.eq)
+            {
+                <tr>
+                    <td>@ev.EquipmentEventId</td>
+                    <td>@ev.EquipmentId</td>
+                    <td>@ev.EventCode</td>
+                    <td>@ev.EventType</td>
+                    <td>@ev.EventTime.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>@ev.TimeZone</td>
+                    <td>@ev.City</td>
+                    <td>@ev.CreatedDate.ToString("yyyy-MM-dd")</td>
+                    <td>@ev.CreatedBy</td>
+                    <td>@ev.ModifiedDate?.ToString("yyyy-MM-dd")</td>
+                    <td>@ev.ModifiedBy</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+ 
+ 

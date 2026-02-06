@@ -2,6 +2,7 @@
 
 public class EquipmentEvent
 {
+    public int EquipmentEventId { get; set; }
     public int EquipmentId { get; set; }
     public string EventCode { get; set; } = null!;
     public string EventType { get; set; } = null!;

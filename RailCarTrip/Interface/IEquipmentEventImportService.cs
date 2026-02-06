@@ -1,7 +1,10 @@
-﻿namespace RailCarTrip.Interface
+﻿using RailCarTrip.ViewModel;
+
+namespace RailCarTrip.Interface
 {
     public interface IEquipmentEventImportService
     {
-        Task<List<EquipmentEvent>> ImportAsync(Stream fileStream, string fileName);
+        Task<List<EquipmentEvent>> ImportAsync(string fileName);
+        List<TripEventsVModel> CreateTripsFromEvents(List<EquipmentEvent> events);
     }
 }
