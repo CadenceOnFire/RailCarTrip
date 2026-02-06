@@ -1,0 +1,6 @@
+@RailCarAPI_HostAddress = http://localhost:5277
+
+GET {{RailCarAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

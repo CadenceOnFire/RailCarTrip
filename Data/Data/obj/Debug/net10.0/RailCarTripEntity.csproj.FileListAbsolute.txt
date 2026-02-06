@@ -1,0 +1,12 @@
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\bin\Debug\net10.0\RailCarTripEntity.deps.json
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\bin\Debug\net10.0\RailCarTripEntity.dll
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\bin\Debug\net10.0\RailCarTripEntity.pdb
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\obj\Debug\net10.0\RailCarTripEntity.csproj.AssemblyReference.cache
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\obj\Debug\net10.0\RailCarTripEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\obj\Debug\net10.0\RailCarTripEntity.AssemblyInfoInputs.cache
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\obj\Debug\net10.0\RailCarTripEntity.AssemblyInfo.cs
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\obj\Debug\net10.0\RailCarTripEntity.csproj.CoreCompileInputs.cache
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\obj\Debug\net10.0\RailCarTripEntity.dll
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\obj\Debug\net10.0\refint\RailCarTripEntity.dll
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\obj\Debug\net10.0\RailCarTripEntity.pdb
+D:\Dev\Job\RailCarTrip\RailCarTrip\Data\Data\obj\Debug\net10.0\ref\RailCarTripEntity.dll
